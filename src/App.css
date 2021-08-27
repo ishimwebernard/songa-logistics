@@ -1,0 +1,16 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.font-header{
+    font-family: 'Archivo', sans-serif;
+}
+.carousel-size{
+    height: 550px;
+}
+.transluscent{
+    backdrop-filter: blur(5px);
+    position: fixed;
+    top: 0;
+  
+
+}
